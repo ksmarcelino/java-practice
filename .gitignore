@@ -1,0 +1,22 @@
+# Compiled Java files
+*.class
+
+# Build output folders
+bin/
+out/
+build/
+target/
+
+# Gradle files
+.gradle/
+
+# Log files
+*.log
+
+# Java Virtual Machine crash files
+hs_err_pid*
+replay_pid*
+
+# Windows-generated files
+Thumbs.db
+Desktop.ini
