@@ -65,5 +65,7 @@ public class UserInput
         System.out.println("Premium: " + isPremium);
         System.out.println("Rank: " + rank);
 
+        input.close();
+
     }
 }
