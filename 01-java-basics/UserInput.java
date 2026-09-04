@@ -66,6 +66,5 @@ public class UserInput
         System.out.println("Rank: " + rank);
 
         input.close();
-
     }
 }
